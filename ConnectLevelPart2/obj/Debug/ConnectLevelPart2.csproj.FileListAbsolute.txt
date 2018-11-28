@@ -1,0 +1,14 @@
+C:\Users\темирбулата\source\repos\ConnectLevelPart2\ConnectLevelPart2\bin\Debug\ConnectLevelPart2.exe.config
+C:\Users\темирбулата\source\repos\ConnectLevelPart2\ConnectLevelPart2\bin\Debug\ConnectLevelPart2.exe
+C:\Users\темирбулата\source\repos\ConnectLevelPart2\ConnectLevelPart2\bin\Debug\ConnectLevelPart2.pdb
+C:\Users\темирбулата\source\repos\ConnectLevelPart2\ConnectLevelPart2\obj\Debug\ConnectLevelPart2.csprojAssemblyReference.cache
+C:\Users\темирбулата\source\repos\ConnectLevelPart2\ConnectLevelPart2\obj\Debug\ConnectLevelPart2.csproj.CoreCompileInputs.cache
+C:\Users\темирбулата\source\repos\ConnectLevelPart2\ConnectLevelPart2\obj\Debug\ConnectLevelPart2.exe
+C:\Users\темирбулата\source\repos\ConnectLevelPart2\ConnectLevelPart2\obj\Debug\ConnectLevelPart2.pdb
+C:\Users\темирбулата\Desktop\Ado.Net.Param.Query_NOSQLENECTION-master\ConnectLevelPart2\obj\Debug\ConnectLevelPart2.csprojAssemblyReference.cache
+C:\Users\темирбулата\Desktop\Ado.Net.Param.Query_NOSQLENECTION-master\ConnectLevelPart2\obj\Debug\ConnectLevelPart2.csproj.CoreCompileInputs.cache
+C:\Users\темирбулата\Desktop\Ado.Net.Param.Query_NOSQLENECTION-master\ConnectLevelPart2\obj\Debug\ConnectLevelPart2.exe
+C:\Users\темирбулата\Desktop\Ado.Net.Param.Query_NOSQLENECTION-master\ConnectLevelPart2\obj\Debug\ConnectLevelPart2.pdb
+C:\Users\темирбулата\Desktop\Ado.Net.Param.Query_NOSQLENECTION-master\ConnectLevelPart2\bin\Debug\ConnectLevelPart2.exe.config
+C:\Users\темирбулата\Desktop\Ado.Net.Param.Query_NOSQLENECTION-master\ConnectLevelPart2\bin\Debug\ConnectLevelPart2.exe
+C:\Users\темирбулата\Desktop\Ado.Net.Param.Query_NOSQLENECTION-master\ConnectLevelPart2\bin\Debug\ConnectLevelPart2.pdb
